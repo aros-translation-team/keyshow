@@ -1,13 +1,13 @@
 ## version $VER: KeyShow.catalog 1.0 (21.12.2020)
-## language tÃ¼rkÃ§e
+## language türkçe
 ## codeset 0
 ;
 MSG_AppDescription
-Klavye DÃ¼zenini GÃ¶sterir
+Klavye Düzenini Gösterir
 ; Show Keyboard Layout
 ;
 MSG_AppCopyright
-Telif HakkÄ± \xa9 2012 AROS GeliÅŸtirme TakÄ±mÄ±
+Telif Hakký \xa9 2012 AROS Geliþtirme Takýmý
 ; Copyright \xa9 2012 The AROS Development Team
 ;
 MSG_WI_TITLE
@@ -25,7 +25,7 @@ Hata
 ; Error
 ;
 MSG_ERR_NO_APPLICATION
-Uygulama oluÅŸturulamadÄ±
+Uygulama oluþturulamadý
 ; Can't create application
 ;
 MSG_ERR_NO_MEM
