@@ -107,7 +107,7 @@ MSG_KEY_NUM_ENTER
 ; ^M
 ;
 MSG_KEY_PRTSCREEN
-Yazdýr
+Print
 ; Print
 ;
 MSG_KEY_SCRLOCK
