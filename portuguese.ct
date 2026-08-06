@@ -1,0 +1,116 @@
+## version $VER: KeyShow.catalog 1.0 (06.08.2026)
+## language português
+## codeset 0
+;
+MSG_AppDescription
+Mostrar Disposição do Teclado
+; Show Keyboard Layout
+;
+MSG_AppCopyright
+Copyright \xa9 2012 The AROS Development Team
+; Copyright \xa9 2012 The AROS Development Team
+;
+MSG_WI_TITLE
+KeyShow
+; KeyShow
+;
+MSG_OK
+_Aceitar
+; _OK
+;
+MSG_ERR
+Erro
+; Error
+;
+MSG_ERR_NO_APPLICATION
+Não é possível criar a aplicação
+; Can't create application
+;
+MSG_ERR_NO_MEM
+Memória esgotada
+; Out of memory
+;
+MSG_KEY_SHIFT
+Shift
+; Shift
+;
+MSG_KEY_CTRL
+Ctrl
+; Ctrl
+;
+MSG_KEY_ALT
+Alt
+; Alt
+;
+MSG_KEY_LOCK
+Lock
+; Lock
+;
+MSG_KEY_HELP
+Ajuda
+; Help
+;
+MSG_KEY_A
+A
+; A
+;
+MSG_KEY_INSERT
+Inserir
+; Insert
+;
+MSG_KEY_HOME
+Início
+; Home
+;
+MSG_KEY_PAGEUP
+Pág ^
+; Page ^
+;
+MSG_KEY_DELETE
+Apagar
+; Delete
+;
+MSG_KEY_END
+Fim
+; End
+;
+MSG_KEY_PAGEDOWN
+Pág v
+; Page v
+;
+MSG_KEY_NUM
+Num
+; Num
+;
+MSG_KEY_RETURN
+^M
+; ^M
+;
+MSG_KEY_BACKSP
+^H
+; ^H
+;
+MSG_KEY_TAB
+^I
+; ^I
+;
+MSG_KEY_ESC
+^[
+; ^[
+;
+MSG_KEY_NUM_ENTER
+^M
+; ^M
+;
+MSG_KEY_PRTSCREEN
+Imprimir
+; Print
+;
+MSG_KEY_SCRLOCK
+ScrLock
+; ScrLock
+;
+MSG_KEY_PAUSE
+Pause
+; Pause
+;

@@ -1,0 +1,116 @@
+## version $VER: KeyShow.catalog 1.0 (06.08.2026)
+## language català
+## codeset 0
+;
+MSG_AppDescription
+Mostrar la disposició del teclat
+; Show Keyboard Layout
+;
+MSG_AppCopyright
+Copyright \xa9 2012 The AROS Development Team
+; Copyright \xa9 2012 The AROS Development Team
+;
+MSG_WI_TITLE
+KeyShow
+; KeyShow
+;
+MSG_OK
+_D'acord
+; _OK
+;
+MSG_ERR
+Error
+; Error
+;
+MSG_ERR_NO_APPLICATION
+No es pot crear l'aplicació
+; Can't create application
+;
+MSG_ERR_NO_MEM
+No hi ha prou memòria
+; Out of memory
+;
+MSG_KEY_SHIFT
+Maj
+; Shift
+;
+MSG_KEY_CTRL
+Ctrl
+; Ctrl
+;
+MSG_KEY_ALT
+Alt
+; Alt
+;
+MSG_KEY_LOCK
+Bloq Maj
+; Lock
+;
+MSG_KEY_HELP
+Ajuda
+; Help
+;
+MSG_KEY_A
+A
+; A
+;
+MSG_KEY_INSERT
+Inserir
+; Insert
+;
+MSG_KEY_HOME
+Inici
+; Home
+;
+MSG_KEY_PAGEUP
+Pàg ^
+; Page ^
+;
+MSG_KEY_DELETE
+Esborrar
+; Delete
+;
+MSG_KEY_END
+Fi
+; End
+;
+MSG_KEY_PAGEDOWN
+Pàg v
+; Page v
+;
+MSG_KEY_NUM
+Bloq Núm
+; Num
+;
+MSG_KEY_RETURN
+^M
+; ^M
+;
+MSG_KEY_BACKSP
+^H
+; ^H
+;
+MSG_KEY_TAB
+^I
+; ^I
+;
+MSG_KEY_ESC
+^[
+; ^[
+;
+MSG_KEY_NUM_ENTER
+^M
+; ^M
+;
+MSG_KEY_PRTSCREEN
+Imprimir
+; Print
+;
+MSG_KEY_SCRLOCK
+Bloq Despl
+; ScrLock
+;
+MSG_KEY_PAUSE
+Pausa
+; Pause
+;
